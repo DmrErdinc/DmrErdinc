@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=DmrErdinc&label=Ziyaretçi+Sayısı&color=0e75b6&style=flat" alt="Ziyaretçi Sayısı" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Welcome Banner">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=ecf05e47o7hnejmttmapbna74jb0uriqygju7ztocixjwqza&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="400" alt="Welcome Banner">
 </p>
 
 <h1 align="center">👋 Merhaba, ben Erdinç!</h1>
@@ -16,11 +16,11 @@
   <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="300" alt="Coding gif" />
 </p>
 
-- Van Türkiye'de yaşıyorum
-- Yüzüncü Yıl Üniversitesinde okuyorum
-- 🤖 Python, Selenium, API, otomasyon ve veri analizi projeleri geliştiriyorum
-- 📊 Projelerimde grafikler, botlar, analiz ve görselleştirme araçları kullanıyorum
-- 🔧 Arduino, C#, HTML/CSS ile de çalışmalar yapıyorum
+                          - Van Türkiye'de yaşıyorum
+                          - Yüzüncü Yıl Üniversitesinde okuyorum
+                          - 🤖 Python, Selenium, API, otomasyon ve veri analizi projeleri geliştiriyorum
+                          - 📊 Projelerimde grafikler, botlar, analiz ve görselleştirme araçları kullanıyorum
+                          - 🔧 Arduino, C#, HTML/CSS ile de çalışmalar yapıyorum
 
 ---
 
