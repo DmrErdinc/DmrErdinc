@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Welcome Banner">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Welcome Banner">
 </p>
 
 <h1 align="center">👋 Merhaba, ben Erdinç!</h1>
@@ -25,15 +25,21 @@
 
 ---
 
-## 📂 Vitrindeki Projeler
+## 📂 Tüm Projelerim
 
 | 📁 Proje | 📄 Açıklama | 🔗 Link |
 |---------|-------------|--------|
-| ☁️ Hava Durumu Botu | Anlık hava durumu, grafik ve bildirim sistemi | [Repo](https://github.com/DmrErdinc/Python-Hava-Durumu-Veri-Bilimi) |
-| 📉 Fiyat Takip Botu | Ürünlerde fiyat düşüşü için Selenium botu | [Repo](https://github.com/DmrErdinc/fiyat-takip-botu-Selenium) |
-| 📣 İlan Tarama Botu | Sahibinden ilanlarını analiz edip Telegram bildirimi atar | [Repo](https://github.com/DmrErdinc/ilan-Tarama-Botu-Selenium) |
-| 🍕 Pizza Otomasyonu | C# ile masaüstü pizza sipariş yönetimi | [Repo](https://github.com/DmrErdinc/PizzaSiparis-Otomasyonu-C-FORM) |
-| 🤖 Arduino Örümcek Robot | Arduino kontrollü robot projesi | [Repo](https://github.com/DmrErdinc/Arduino-r-mcek-Robot) |
+| ☁️ Python-Hava-Durumu-Veri-Bilimi | Anlık hava durumu ve grafiksel veri sunumu | [Repo](https://github.com/DmrErdinc/Python-Hava-Durumu-Veri-Bilimi) |
+| 📋 QR-Menu | Dijital restoran menüsü oluşturma sistemi | [Repo](https://github.com/DmrErdinc/QR-Menu) |
+| 📣 ilan-Tarama-Botu-Selenium | Sahibinden ilanlarını takip eden bot | [Repo](https://github.com/DmrErdinc/ilan-Tarama-Botu-Selenium) |
+| 💰 fiyat-takip-botu-Selenium | E-ticaret sitelerinde fiyat düşüşlerini izler | [Repo](https://github.com/DmrErdinc/fiyat-takip-botu-Selenium) |
+| 🔐 instagram-login-script | Instagram giriş otomasyon scripti | [Repo](https://github.com/DmrErdinc/instagram-login-script) |
+| 🛍️ FrontEnd-Theme-E-Commerce | Modern e-ticaret teması | [Repo](https://github.com/DmrErdinc/FrontEnd-Theme-E-Commerce) |
+| 🎨 FrontEnd-Theme | Şık kullanıcı arayüzü teması | [Repo](https://github.com/DmrErdinc/FrontEnd-Theme) |
+| 🪙 riptoParaTakipSistemi-C-FORM-README-KURULUM | Kripto para fiyat takip masaüstü uygulaması | [Repo](https://github.com/DmrErdinc/riptoParaTakipSistemi-C-FORM-README-KURULUM) |
+| 🕷️ Arduino-r-mcek-Robot | Arduino tabanlı örümcek robot projesi | [Repo](https://github.com/DmrErdinc/Arduino-r-mcek-Robot) |
+| 🍕 PizzaSiparis-Otomasyonu-C-FORM | C# ile pizza siparişi yönetimi | [Repo](https://github.com/DmrErdinc/PizzaSiparis-Otomasyonu-C-FORM) |
+| ☕ Kafe_Otomasyonu_CForm | C# ile kafe işletme otomasyon sistemi | [Repo](https://github.com/DmrErdinc/Kafe_Otomasyonu_CForm) |
 
 ---
 
