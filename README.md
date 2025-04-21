@@ -1,4 +1,6 @@
----
+---<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DmrErdinc&label=Ziyaretçi+Sayısı&color=0e75b6&style=flat" alt="Ziyaretçi Sayısı" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Welcome Banner">
 </p>
