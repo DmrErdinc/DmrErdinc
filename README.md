@@ -6,8 +6,9 @@
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Welcome Banner">
 </p>
 
-<h1 align="center">👋 Merhaba, ben Erdinç!</h1>
-<h3 align="center">🎓 Bilgisayar Mühendisiyim | 🔍 Veri Bilimi • Python • Otomasyon • C++ • C# • C#FORM • OOP • Selenium • Arduino • HTML/CSS </h3>
+<h1 align="center">👋 Merhaba, Ben Erdinç!</h1>
+        <h3 align="center">🎓 Bilgisayar Mühendisiyim | 
+  🔍 Veri Bilimi • Python • Otomasyon • C++ • C# • C#FORM • OOP • Selenium • Arduino • HTML/CSS </h3>
 
 ---
 
@@ -25,7 +26,7 @@
 
 ---
 
-## 📂 Tüm Projelerim
+## 📂 Önemli Projelerim
 
 | 📁 Proje | 📄 Açıklama | 🔗 Link |
 |---------|-------------|--------|
