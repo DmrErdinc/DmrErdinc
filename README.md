@@ -42,11 +42,7 @@
 
 ---
 
-## 🧰 Teknolojiler & Araçlar
 
-<p align="center">
-  <img src="https://media.giphy.com/media/IdWv8sYfKsi9W/giphy.gif" width="200" />
-</p>
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas)
