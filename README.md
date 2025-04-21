@@ -8,7 +8,7 @@
 
 <h1 align="center">👋 Merhaba, Ben Erdinç!</h1>
         <h3 align="center">🎓 Bilgisayar Mühendisiyim | 
-  🔍 Veri Bilimi • Python • Otomasyon • C++ • C# • C#FORM • OOP • Selenium • Arduino • HTML/CSS </h3>
+            🔍 Veri Bilimi • Python • Otomasyon • C++ • C# • C#FORM • OOP • Selenium • Arduino • HTML/CSS </h3>
 
 ---
 
