@@ -1,8 +1,3 @@
-## 🐍 Snake Oyunu (GitHub Contribution Game)
-
-<p align="center">
-  <img src="https://github.com/DmrErdinc/DmrErdinc/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmrErdinc&label=Ziyaretçi+Sayısı&color=0e75b6&style=flat" alt="Ziyaretçi Sayısı" />
