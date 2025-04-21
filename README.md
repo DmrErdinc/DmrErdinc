@@ -13,7 +13,7 @@
 ## 🚀 Hakkımda
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="300" alt="Coding gif" />
 </p>
 
 - Van Türkiye'de yaşıyorum
