@@ -66,7 +66,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif" width="200" />
 </p>
+
 - 📧 E-posta: [eraydemir300@gmail.com](mailto:eraydemir300@gmail.com)
 - 📱 Telefon: [+90 552 718 9160](tel:+905527189160)
 - 🌐 GitHub: [github.com/DmrErdinc](https://github.com/DmrErdinc)
+
 > ⭐ Projelerime yıldız bırakmayı unutma!
