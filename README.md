@@ -8,10 +8,6 @@
 <h1 align="center">👋 Merhaba, ben Erdinç!</h1>
 <h3 align="center">🎓 Bilgisayar Mühendisiyim | 🔍 Veri Bilimi • Python • Otomasyon</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmrErdinc&label=Ziyaretçi+Sayısı&color=0e75b6&style=flat" alt="Ziyaretçi Sayısı" />
-</p>
-
 ---
 
 ## 🚀 Hakkımda
@@ -20,7 +16,8 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </p>
 
-- 🇹🇷 Türkiye'de yaşıyorum
+- Van Türkiye'de yaşıyorum
+- Yüzüncü Yıl Üniversitesinde okuyorum
 - 🤖 Python, Selenium, API, otomasyon ve veri analizi projeleri geliştiriyorum
 - 📊 Projelerimde grafikler, botlar, analiz ve görselleştirme araçları kullanıyorum
 - 🔧 Arduino, C#, HTML/CSS ile de çalışmalar yapıyorum
