@@ -35,12 +35,17 @@
 | 📣 ilan-Tarama-Botu-Selenium | Sahibinden ilanlarını takip eden bot | [Repo](https://github.com/DmrErdinc/ilan-Tarama-Botu-Selenium) |
 | 💰 fiyat-takip-botu-Selenium | E-ticaret sitelerinde fiyat düşüşlerini izler | [Repo](https://github.com/DmrErdinc/fiyat-takip-botu-Selenium) |
 | 🔐 instagram-login-script | Instagram giriş otomasyon scripti | [Repo](https://github.com/DmrErdinc/instagram-login-script) |
+| 🕵️ snepchat-login-script | Snapchat giriş otomasyon scripti | [Repo](https://github.com/DmrErdinc/snepchat-login-script) |
 | 🛍️ FrontEnd-Theme-E-Commerce | Modern e-ticaret teması | [Repo](https://github.com/DmrErdinc/FrontEnd-Theme-E-Commerce) |
 | 🎨 FrontEnd-Theme | Şık kullanıcı arayüzü teması | [Repo](https://github.com/DmrErdinc/FrontEnd-Theme) |
-| 🪙 riptoParaTakipSistemi-C-FORM-README-KURULUM | Kripto para fiyat takip masaüstü uygulaması | [Repo](https://github.com/DmrErdinc/riptoParaTakipSistemi-C-FORM-README-KURULUM) |
+|  kriptoParaTakipSistemi-C-FORM-README-KURULUM | Kripto para fiyat takip masaüstü uygulaması | [Repo](https://github.com/DmrErdinc/riptoParaTakipSistemi-C-FORM-README-KURULUM) 
 | 🕷️ Arduino-r-mcek-Robot | Arduino tabanlı örümcek robot projesi | [Repo](https://github.com/DmrErdinc/Arduino-r-mcek-Robot) |
 | 🍕 PizzaSiparis-Otomasyonu-C-FORM | C# ile pizza siparişi yönetimi | [Repo](https://github.com/DmrErdinc/PizzaSiparis-Otomasyonu-C-FORM) |
 | ☕ Kafe_Otomasyonu_CForm | C# ile kafe işletme otomasyon sistemi | [Repo](https://github.com/DmrErdinc/Kafe_Otomasyonu_CForm) |
+| 🚀 Uzay-Savaslar-C-FORM | C# WinForms ile yapılmış 2D uzay savaş oyunu | [Repo](https://github.com/DmrErdinc/Uzay-Savaslar-C-FORM) |
+| 🏥 HastaneOtomasyonuC-Form | Hasta kayıt, randevu ve doktor yönetimi sistemi | [Repo](https://github.com/DmrErdinc/HastaneOtomasyonuC-Form) |
+| 📊 KriptoVeriBilimi | Python ile kripto verilerini analiz ve görselleştirme | [Repo](https://github.com/DmrErdinc/KriptoVeriBilimi) |
+
 
 ---
 
