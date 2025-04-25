@@ -28,22 +28,19 @@
 
 ## 📂 Önemli Projelerim
 
-📁 Proje | 📄 Açıklama | 🔗 Link
-☁️ Python-Hava-Durumu-Veri-Bilimi | Anlık hava durumu ve grafiksel veri sunumu | Repo
-📋 QR-Menu | Dijital restoran menüsü oluşturma sistemi | Repo
-📣 ilan-Tarama-Botu-Selenium | Sahibinden ilanlarını takip eden bot | Repo
-💰 fiyat-takip-botu-Selenium | E-ticaret sitelerinde fiyat düşüşlerini izler | Repo
-🔐 instagram-login-script | Instagram giriş otomasyon scripti | Repo
-🛍️ FrontEnd-Theme-E-Commerce | Modern e-ticaret teması | Repo
-🎨 FrontEnd-Theme | Şık kullanıcı arayüzü teması | Repo
-🪙 riptoParaTakipSistemi-C-FORM-README-KURULUM | Kripto para fiyat takip masaüstü uygulaması | Repo
-🕷️ Arduino-r-mcek-Robot | Arduino tabanlı örümcek robot projesi | Repo
-🍕 PizzaSiparis-Otomasyonu-C-FORM | C# ile pizza siparişi yönetimi | Repo
-☕ Kafe_Otomasyonu_CForm | C# ile kafe işletme otomasyon sistemi | Repo
-🚀 Uzay-Savaslar-C-FORM | C# WinForms ile yapılmış 2D uzay savaş oyunu | Repo
-🏥 HastaneOtomasyonuC-Form | Hasta kayıt, randevu ve doktor yönetimi sistemi | Repo
-📊 KriptoVeriBilimi | Python ile kripto verilerini analiz ve görselleştirme | Repo
-🕵️ snepchat-login-script | Snapchat giriş otomasyon scripti | Repo
+| 📁 Proje | 📄 Açıklama | 🔗 Link |
+|---------|-------------|--------|
+| ☁️ Python-Hava-Durumu-Veri-Bilimi | Anlık hava durumu ve grafiksel veri sunumu | [Repo](https://github.com/DmrErdinc/Python-Hava-Durumu-Veri-Bilimi) |
+| 📋 QR-Menu | Dijital restoran menüsü oluşturma sistemi | [Repo](https://github.com/DmrErdinc/QR-Menu) |
+| 📣 ilan-Tarama-Botu-Selenium | Sahibinden ilanlarını takip eden bot | [Repo](https://github.com/DmrErdinc/ilan-Tarama-Botu-Selenium) |
+| 💰 fiyat-takip-botu-Selenium | E-ticaret sitelerinde fiyat düşüşlerini izler | [Repo](https://github.com/DmrErdinc/fiyat-takip-botu-Selenium) |
+| 🔐 instagram-login-script | Instagram giriş otomasyon scripti | [Repo](https://github.com/DmrErdinc/instagram-login-script) |
+| 🛍️ FrontEnd-Theme-E-Commerce | Modern e-ticaret teması | [Repo](https://github.com/DmrErdinc/FrontEnd-Theme-E-Commerce) |
+| 🎨 FrontEnd-Theme | Şık kullanıcı arayüzü teması | [Repo](https://github.com/DmrErdinc/FrontEnd-Theme) |
+| 🪙 riptoParaTakipSistemi-C-FORM-README-KURULUM | Kripto para fiyat takip masaüstü uygulaması | [Repo](https://github.com/DmrErdinc/riptoParaTakipSistemi-C-FORM-README-KURULUM) |
+| 🕷️ Arduino-r-mcek-Robot | Arduino tabanlı örümcek robot projesi | [Repo](https://github.com/DmrErdinc/Arduino-r-mcek-Robot) |
+| 🍕 PizzaSiparis-Otomasyonu-C-FORM | C# ile pizza siparişi yönetimi | [Repo](https://github.com/DmrErdinc/PizzaSiparis-Otomasyonu-C-FORM) |
+| ☕ Kafe_Otomasyonu_CForm | C# ile kafe işletme otomasyon sistemi | [Repo](https://github.com/DmrErdinc/Kafe_Otomasyonu_CForm) |
 
 ---
 
