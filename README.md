@@ -1,22 +1,46 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmrErdinc&label=Profil+G%C3%B6r%C3%BCnt%C3%BCleme&color=7c3aed&style=for-the-badge" alt="Profil Görüntüleme" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=ERDİNÇ&fontAlign=50&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Automation%20%7C%20Data%20Projects&descAlign=50&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
-<h1 align="center">Merhaba, ben Erdinç 👋</h1>
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi • Yazılım Geliştirici • Otomasyon ve Veri Odaklı Projeler</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Merhaba%2C+ben+Erdin%C3%A7.;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisiyim.;Python+%7C+C%23+%7C+TypeScript+%7C+Automation+%7C+Data+Projects;Ger%C3%A7ek+problemler+i%C3%A7in+kullan%C4%B1labilir+projeler+geli%C5%9Ftiriyorum." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/DmrErdinc">
     <img src="https://img.shields.io/badge/GitHub-DmrErdinc-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://dmrerdinc.com/">
-    <img src="https://img.shields.io/badge/Website-dmrerdinc.com-7c3aed?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-dmrerdinc.com-6d28d9?style=for-the-badge" />
   </a>
   <a href="mailto:eraydemir300@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-İletişime%20Geç-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--posta-İletişim-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/dmrerdincc">
+    <img src="https://img.shields.io/badge/X-@dmrerdincc-111111?style=for-the-badge&logo=x" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DmrErdinc&label=Profil+G%C3%B6r%C3%BCnt%C3%BCleme&color=7c3aed&style=for-the-badge" alt="Profil görüntüleme" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hakkımda
+
+```yaml
+ad: Erdinç
+konum: Van, Türkiye
+okul: Yüzüncü Yıl Üniversitesi
+alanlar:
+  - Python
+  - C#
+  - TypeScript
+  - Selenium
+  - Veri Analizi
+  - Otomasyon
+hedef: Gerçek hayatta işe yarayan sistemler geliştirmek
 ---
 
 ## Hakkımda
