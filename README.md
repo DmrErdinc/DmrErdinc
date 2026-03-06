@@ -28,21 +28,6 @@
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hakkımda
-
-```yaml
-ad: Erdinç
-konum: Van, Türkiye
-okul: Yüzüncü Yıl Üniversitesi
-alanlar:
-  - Python
-  - C#
-  - TypeScript
-  - Selenium
-  - Veri Analizi
-  - Otomasyon
-hedef: Gerçek hayatta işe yarayan sistemler geliştirmek
----
-
 ## Hakkımda
 
 - 🎓 Yüzüncü Yıl Üniversitesi'nde Bilgisayar Mühendisliği alanında öğrenim görüyorum
@@ -143,10 +128,7 @@ hedef: Gerçek hayatta işe yarayan sistemler geliştirmek
 
 ## GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DmrErdinc&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmrErdinc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmrErdinc&theme=tokyonight&hide_border=true" width="70%" />
